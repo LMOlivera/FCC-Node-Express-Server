@@ -1,2 +1,1 @@
-# FCC-Node-Express-Server
-Files used in glitch.com for the Freecodecamp curriculum.
+# Backend Challenges Boilerplate - Basic Express
